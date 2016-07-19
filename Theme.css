@@ -2,10 +2,10 @@
 @import url("https://rawgit.com/MuZiKa458/Muzika_Valdo/master/Staff.css");
 
 .icon-room { 
-	width: 32px !important;
+	width: 40px !important;
 }
 #room-name, #room-host, #now-playing-dj, #now-playing-media {
-    left: 35px !important;
+    left: 40px !important;
     color: #fff !important;
     font-weight: bold;
     text-shadow: 2px 0px 11px, #dd00ff;
