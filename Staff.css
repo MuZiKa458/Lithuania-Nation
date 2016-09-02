@@ -1,0 +1,50 @@
+/* Xuxa */
+#user-lists .list.room .user.role-manager.id-3427443 .name {
+    color: #b36200 !important;
+}
+/* Xuxa */
+
+/* Staff */
+.icon-chat-ambassador + span {
+    color: #b36200 !important;
+}
+.icon-chat-host + span {
+    color: #2f3eac !important;
+}
+.icon-chat-cohost + span {
+    color: #b30006 !important;
+}
+.icon-chat-manager + span {
+    color: #008cb3 !important;
+}
+.icon-chat-bouncer + span {
+    color: #00b3a7 !important;
+}
+.icon-chat-dj + span {
+    color: #15b300 !important;
+}
+.icon-chat-ambassador {
+	background: url("http://i.imgur.com/CLohB4z.png") !important;
+}
+.icon-chat-host {
+	background: url("http://i.imgur.com/AUN5mN2.png") !important;
+}
+.icon-chat-cohost {
+	background: url("http://i.imgur.com/Y8xikka.png") !important;
+}
+.icon-chat-manager {
+	background: url("http://i.imgur.com/c4hi37X.png") !important;
+}
+.icon-chat-bouncer {
+	background: url("http://i.imgur.com/KLgL0uz.png") !important;
+}
+.icon-chat-dj {
+	background: url("http://i.imgur.com/ErEA9CM.png") !important;
+}
+.icon-chat-subscriber {
+	background: url("http://i.imgur.com/0dr2ijn.png) !important;
+}
+.icon-chat-silversubscriber {
+	background: url("http://i.imgur.com/VDBi5i9.png) !important;
+}
+/* Staff */
