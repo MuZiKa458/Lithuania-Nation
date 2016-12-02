@@ -1,0 +1,44 @@
+/* Xuxa */
+#user-lists .list.room .user.role-manager.id-3427443 .name {
+    color: #b36200 !important;
+}
+/* Xuxa */
+
+/* Staff */
+.icon-chat-ambassador + span {
+    color: #b36200 !important;
+}
+.icon-chat-host + span {
+    color: #26328c  !important;
+}
+.icon-chat-cohost + span {
+    color: #d50007 !important;
+}
+.icon-chat-manager + span {
+    color: #00a5d3 !important;
+}
+.icon-chat-bouncer + span {
+    color: #00c6b9 !important;
+}
+.icon-chat-dj + span {
+    color: #18cd00 !important;
+}
+.icon-chat-ambassador {
+	background: url("http://i.imgur.com/bZnXV7p.png") !important;
+}
+.icon-chat-host {
+	background: url("http://i.imgur.com/NHUmNOh.png") !important;
+}
+.icon-chat-cohost {
+	background: url("http://i.imgur.com/kWuuGIk.png") !important;
+}
+.icon-chat-manager {
+	background: url("http://i.imgur.com/kpW4k6f.png") !important;
+}
+.icon-chat-bouncer {
+	background: url("http://i.imgur.com/gqNQ4s9.png") !important;
+}
+.icon-chat-dj {
+	background: url("http://i.imgur.com/lcAu9nd.png") !important;
+}
+/* Staff */
