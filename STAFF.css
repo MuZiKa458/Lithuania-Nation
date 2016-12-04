@@ -9,36 +9,36 @@
     color: #b36200 !important;
 }
 .icon-chat-host + span {
-    color: #26328c  !important;
+    color: #cb0007  !important;
 }
 .icon-chat-cohost + span {
-    color: #d50007 !important;
+    color: #cb0007 !important;
 }
 .icon-chat-manager + span {
-    color: #00a5d3 !important;
+    color: #cb0007 !important;
 }
 .icon-chat-bouncer + span {
-    color: #00c6b9 !important;
+    color: #cb0007 !important;
 }
 .icon-chat-dj + span {
-    color: #18cd00 !important;
+    color: #cb0007 !important;
 }
 .icon-chat-ambassador {
 	background: url("http://i.imgur.com/bZnXV7p.png") !important;
 }
 .icon-chat-host {
-	background: url("http://i.imgur.com/NHUmNOh.png") !important;
+	background: url("http://i.imgur.com/8w3YajU.png") !important;
 }
 .icon-chat-cohost {
-	background: url("http://i.imgur.com/kWuuGIk.png") !important;
+	background: url("http://i.imgur.com/8w3YajU.png") !important;
 }
 .icon-chat-manager {
-	background: url("http://i.imgur.com/kpW4k6f.png") !important;
+	background: url("http://i.imgur.com/hCLYtMg.png") !important;
 }
 .icon-chat-bouncer {
-	background: url("http://i.imgur.com/gqNQ4s9.png") !important;
+	background: url("http://i.imgur.com/qVJ6bqf.png") !important;
 }
 .icon-chat-dj {
-	background: url("http://i.imgur.com/lcAu9nd.png") !important;
+	background: url("http://i.imgur.com/2sHCB04.png") !important;
 }
 /* Staff */
