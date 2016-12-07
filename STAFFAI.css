@@ -9,42 +9,42 @@
     color: #b36200 !important;
 }
 .icon-chat-host + span {
-    color: #cb0007  !important;
+    color: #0014ea  !important;
 }
 .icon-chat-cohost + span {
-    color: #cb0007 !important;
+    color: #0014ea !important;
 }
 .icon-chat-manager + span {
     color: #cb0007 !important;
 }
 .icon-chat-bouncer + span {
-    color: #cb0007 !important;
+    color: #009ec0 !important;
 }
 .icon-chat-dj + span {
-    color: #cb0007 !important;
+    color: #01a00c !important;
 }
 .icon-chat-ambassador {
 	background: url("http://i.imgur.com/bZnXV7p.png") !important;
 }
 .icon-chat-host {
-	background: url("http://i.imgur.com/8w3YajU.png") !important;
+	background: url("http://i.imgur.com/yoiYJWK.png") !important;
 }
 .icon-chat-cohost {
-	background: url("http://i.imgur.com/8w3YajU.png") !important;
+	background: url("http://i.imgur.com/yoiYJWK.png") !important;
 }
 .icon-chat-manager {
-	background: url("http://i.imgur.com/hCLYtMg.png") !important;
+	background: url("http://i.imgur.com/l86d87E.png") !important;
 }
 .icon-chat-bouncer {
-	background: url("http://i.imgur.com/qVJ6bqf.png") !important;
+	background: url("http://i.imgur.com/Y6DPMA0.png") !important;
 }
 .icon-chat-dj {
-	background: url("http://i.imgur.com/2sHCB04.png") !important;
+	background: url("http://i.imgur.com/qvjEosH.png") !important;
 }
 .icon-chat-subscriber {
 	background: url("http://i.imgur.com/Ztn8l74.png") !important;
 }
-.icon-chat-silver-subscriber {
+.icon-chat-silversubscriber {
 	background: url("http://i.imgur.com/9NGlGsJ.png") !important;
 }
 /* Staff */
